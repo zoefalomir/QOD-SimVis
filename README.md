@@ -3,3 +3,5 @@ Qualitative Object Descriptor Dataset for Visual Similarity
 Author: Zoe Falomir (zfalomir@cs.umu.se) and Vicent Costa (vicent@iiia.csic.es)
 
 In revision at MDAI'25
+
+Prolog code for SWI-Prolog. For non-experts, you can test it using the online platform: https://swish.swi-prolog.org
