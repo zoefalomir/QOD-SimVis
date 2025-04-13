@@ -1,6 +1,8 @@
-Qualitative Object Descriptor Dataset for Visual Similarity
+Code for Calculating a Visual Similarity Measure between Qualitative Object Descriptors
 
-Author: Zoe Falomir (zfalomir@cs.umu.se) and Vicent Costa (vicent@iiia.csic.es)
+Dataset composed by 15 scenes related to the Cube Comparison Test.
+
+Authors: Zoe Falomir (zfalomir@cs.umu.se) and Vicent Costa (vicent@iiia.csic.es)
 
 In revision at MDAI'25
 
