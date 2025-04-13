@@ -28,7 +28,7 @@
 %%  Compile in SWI-Prolog as:
 %%
 %%
-%%  ?-['Dataset-QOD-SimVis'].
+%%  ?-['Dataset-QOD-TH'].
 %%
 %%
 %%

@@ -23,9 +23,9 @@
 %%
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
-?- ['QOR_v6'].
+?- ['QOD-SimVis'].
 
-?- ['Dataset-QOD-SimVis'].
+?- ['Dataset-QOD-TH'].
 true.
 
 
