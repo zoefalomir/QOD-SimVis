@@ -1,4 +1,4 @@
-## QOD-SimVis: a Visual Similarity Measure between Qualitative Object Descriptors
+### QOD-SimVis: a Visual Similarity Measure between Qualitative Object Descriptors
 
 Dataset QOD-SimVis composed by 15 scenes related to the Cube Comparison Test.
 
